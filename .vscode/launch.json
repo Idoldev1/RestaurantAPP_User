@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "C#: RestaurantAPI.API [Default Configuration]",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\RestaurantAPI.API\\RestaurantAPI.API.csproj"
+        }
+    ]
+}
