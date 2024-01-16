@@ -7,17 +7,17 @@ namespace RestaurantAPI.Domain.Models;
 public class User : IdentityUser<int>
 {
     [Required(ErrorMessage = "First name is a required field.")]
-    [MaxLenght(15, ErrorMessage = "Maximum lenght for name is 15 characters")]
+    [MaxLength(15, ErrorMessage = "Maximum lenght for name is 15 characters")]
     public string FirstName { get; set; }
 
     [Required(ErrorMessage = "Last name is a required field.")]
-    [MaxLenght(15, ErrorMessage = "Maximum lenght for name is 15 characters")]
+    [MaxLength(15, ErrorMessage = "Maximum lenght for name is 15 characters")]
     public string LastName { get; set; }
 
     public string FullName { get; set; }
 
     [Required(ErrorMessage = "Address is a required field.")]
-    [MaxLenght(50, ErrorMessage = "Maximum lenght for address is 50 characters")]
+    [MaxLength(50, ErrorMessage = "Maximum lenght for address is 50 characters")]
     public string? Address { get; set; }
 
     [Required]

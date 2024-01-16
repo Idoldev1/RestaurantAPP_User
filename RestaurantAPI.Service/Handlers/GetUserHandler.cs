@@ -29,7 +29,7 @@ public class GetAccountHandler : IRequestHandler<GetUserQuery, User>
             }
             else
             {
-                throw new Exception ("Please enter a valid email address")
+                throw new Exception ("Please enter a valid email address");
             }
         }
         return await _userRepository.GetUserAsync(request.Email, request.Password);
