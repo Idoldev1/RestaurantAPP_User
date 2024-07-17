@@ -1,0 +1,12 @@
+C:\Users\tosin\Desktop\Yinka Files\RestaurantAPI\RestaurantAPI.Domain\bin\Debug\net7.0\RestaurantAPI.Domain.deps.json
+C:\Users\tosin\Desktop\Yinka Files\RestaurantAPI\RestaurantAPI.Domain\bin\Debug\net7.0\RestaurantAPI.Domain.dll
+C:\Users\tosin\Desktop\Yinka Files\RestaurantAPI\RestaurantAPI.Domain\bin\Debug\net7.0\RestaurantAPI.Domain.pdb
+C:\Users\tosin\Desktop\Yinka Files\RestaurantAPI\RestaurantAPI.Domain\obj\Debug\net7.0\RestaurantAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\tosin\Desktop\Yinka Files\RestaurantAPI\RestaurantAPI.Domain\obj\Debug\net7.0\RestaurantAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tosin\Desktop\Yinka Files\RestaurantAPI\RestaurantAPI.Domain\obj\Debug\net7.0\RestaurantAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\tosin\Desktop\Yinka Files\RestaurantAPI\RestaurantAPI.Domain\obj\Debug\net7.0\RestaurantAPI.Domain.AssemblyInfo.cs
+C:\Users\tosin\Desktop\Yinka Files\RestaurantAPI\RestaurantAPI.Domain\obj\Debug\net7.0\RestaurantAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tosin\Desktop\Yinka Files\RestaurantAPI\RestaurantAPI.Domain\obj\Debug\net7.0\RestaurantAPI.Domain.dll
+C:\Users\tosin\Desktop\Yinka Files\RestaurantAPI\RestaurantAPI.Domain\obj\Debug\net7.0\refint\RestaurantAPI.Domain.dll
+C:\Users\tosin\Desktop\Yinka Files\RestaurantAPI\RestaurantAPI.Domain\obj\Debug\net7.0\RestaurantAPI.Domain.pdb
+C:\Users\tosin\Desktop\Yinka Files\RestaurantAPI\RestaurantAPI.Domain\obj\Debug\net7.0\ref\RestaurantAPI.Domain.dll

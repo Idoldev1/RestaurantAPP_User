@@ -15,8 +15,6 @@ public static class ServiceRegistration
             .AddJwtBearer();
 
         services.AddScoped<IAuthToken, AuthToken>();
-        services.AddScoped<IOrderRepository, OrderRepository>();
-        services.AddScoped<IGetUserRepository, GetUserRepository>();
 
         
 
