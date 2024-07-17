@@ -1,0 +1,17 @@
+C:\Users\tosin\Desktop\Yinka Files\RestaurantAPI\RestaurantAPI.Service\obj\Debug\net7.0\RestaurantAPI.Service.csproj.AssemblyReference.cache
+C:\Users\tosin\Desktop\Yinka Files\RestaurantAPI\RestaurantAPI.Service\obj\Debug\net7.0\RestaurantAPI.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tosin\Desktop\Yinka Files\RestaurantAPI\RestaurantAPI.Service\obj\Debug\net7.0\RestaurantAPI.Service.AssemblyInfoInputs.cache
+C:\Users\tosin\Desktop\Yinka Files\RestaurantAPI\RestaurantAPI.Service\obj\Debug\net7.0\RestaurantAPI.Service.AssemblyInfo.cs
+C:\Users\tosin\Desktop\Yinka Files\RestaurantAPI\RestaurantAPI.Service\obj\Debug\net7.0\RestaurantAPI.Service.csproj.CoreCompileInputs.cache
+C:\Users\tosin\Desktop\Yinka Files\RestaurantAPI\RestaurantAPI.Service\bin\Debug\net7.0\RestaurantAPI.Service.deps.json
+C:\Users\tosin\Desktop\Yinka Files\RestaurantAPI\RestaurantAPI.Service\bin\Debug\net7.0\RestaurantAPI.Service.dll
+C:\Users\tosin\Desktop\Yinka Files\RestaurantAPI\RestaurantAPI.Service\bin\Debug\net7.0\RestaurantAPI.Service.pdb
+C:\Users\tosin\Desktop\Yinka Files\RestaurantAPI\RestaurantAPI.Service\bin\Debug\net7.0\RestaurantAPI.Data.dll
+C:\Users\tosin\Desktop\Yinka Files\RestaurantAPI\RestaurantAPI.Service\bin\Debug\net7.0\RestaurantAPI.Domain.dll
+C:\Users\tosin\Desktop\Yinka Files\RestaurantAPI\RestaurantAPI.Service\bin\Debug\net7.0\RestaurantAPI.Domain.pdb
+C:\Users\tosin\Desktop\Yinka Files\RestaurantAPI\RestaurantAPI.Service\bin\Debug\net7.0\RestaurantAPI.Data.pdb
+C:\Users\tosin\Desktop\Yinka Files\RestaurantAPI\RestaurantAPI.Service\obj\Debug\net7.0\RestaurantAPI.Service.csproj.CopyComplete
+C:\Users\tosin\Desktop\Yinka Files\RestaurantAPI\RestaurantAPI.Service\obj\Debug\net7.0\RestaurantAPI.Service.dll
+C:\Users\tosin\Desktop\Yinka Files\RestaurantAPI\RestaurantAPI.Service\obj\Debug\net7.0\refint\RestaurantAPI.Service.dll
+C:\Users\tosin\Desktop\Yinka Files\RestaurantAPI\RestaurantAPI.Service\obj\Debug\net7.0\RestaurantAPI.Service.pdb
+C:\Users\tosin\Desktop\Yinka Files\RestaurantAPI\RestaurantAPI.Service\obj\Debug\net7.0\ref\RestaurantAPI.Service.dll
